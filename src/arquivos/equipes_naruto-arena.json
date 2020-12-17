@@ -1,0 +1,753 @@
+{
+  "Plan1": [
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "MOMOCHI ZABUZA",
+      "CHAR 2": "MIZUKI",
+      "CHAR 3": "SARUTOBI KONOHAMARU",
+      "ESTRATEGIA": "usar Zabuza para Stunar e aumentar o consumo de chakra do oponente, fazendo-o ter um jogo mais dificil enquanto ataca com armadilha de konohamaru e kunai assault + execution shuriken do mizuki"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "HAKU",
+      "CHAR 2": "MIZUKI",
+      "CHAR 3": "SARUTOBI KONOHAMARU",
+      "ESTRATEGIA": "usar Haku para Stunar alvos perigosos quando necessario enquanto comba 30 mizuki(2 turnos com a kunai assault) + 40 konohamaru(caso o oponente use uma skill), quando possivel também usar espelhos"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "HARUNO SAKURA (S)",
+      "CHAR 2": "MIZUKI",
+      "CHAR 3": "SARUTOBI KONOHAMARU",
+      "ESTRATEGIA": "usar sakura para curar aliados dando suporte e quando preciso atacar. Combo principal é 30 mizuki(2 turnos com a kunai assault) + 40 konohamaru(caso o oponente use uma skill)"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "REHABILITATED GAARA",
+      "CHAR 2": "MIZUKI",
+      "CHAR 3": "SARUTOBI KONOHAMARU",
+      "ESTRATEGIA": "Focar no combo principal de 30 mizuki(2 turnos com a kunai assault) + 40 konohamaru(caso o oponente use uma skill) e vai atacando tirando 15 com o Gaara"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ABURAME SHINO (S)",
+      "CHAR 2": "DRUNKEN LEE",
+      "CHAR 3": "SARUTOBI KONOHAMARU",
+      "ESTRATEGIA": "Armar o rasengan do konohamaru e ir atacando com shino e lee, sempre defedendo possiveis ataques com os counters dos 3 personagens"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "UZUMAKI NARUTO",
+      "CHAR 2": "UCHIHA OBITO",
+      "CHAR 3": "ABUMI ZAKU",
+      "ESTRATEGIA": "Usar sempre os clones e sharingan no zaku, atacar com o affliction quando necessario combando naruto com obito.  Zaku  é também um ótimo counter"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "TSUCHI KIN",
+      "CHAR 2": "CURSED SEAL LV1 SASUKE",
+      "CHAR 3": "HYUUGA NEJI",
+      "ESTRATEGIA": "sempre começar usando sharingan, depois disso ir administrando o dano com 25 do neji + needle and bell da kin para impedir o oponente de ficar ivulneravel durante os ataques"
+    },
+    {
+      "OBJETIVO": "LADDER",
+      "CHAR 1": "JIROUBOU",
+      "CHAR 2": "ABURAME SHINO (S)",
+      "CHAR 3": "AKADOU YOROI",
+      "ESTRATEGIA": "Tentar sugar o maximo de chakra possivel com yoroi e jiroubou, atacando com todos"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "NARA SHIKAMARU (S)",
+      "CHAR 2": "MIZUKI",
+      "CHAR 3": "SARUTOBI KONOHAMARU",
+      "ESTRATEGIA": "Usar o expert analysis do shikaaru para impedir fuga enquanto comba com mizuki e konohamaru, é sempre bom também stunar com shikamaru ou usa-lo para finalizar oponentes."
+    },
+    {
+      "OBJETIVO": "MISSÕES                (não indicado)",
+      "CHAR 1": "SARUTOBI ASUMA",
+      "CHAR 2": "TAYUYA",
+      "CHAR 3": "SARUTOBI KONOHAMARU",
+      "ESTRATEGIA": "Usar o ataque do Asuma AOE e ir stunando e atacando com tayuya enquanto konohamaru vai dando suporte"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "IZUMO AND KOTETSU",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Atacar com o dragon fire da anko sempre que houver possibilidade e ir aumentando o potencial de dano do gekko com o crescent moon slash usando com frequencia"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "HARUNO SAKURA (S)",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Preparar sakura para ir curando dando suporte ao time e ir atancando como puder com anko e gekko"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ABURAME SHINO (S)",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Time mega completo, Shino da uma ótima defesa com counters e ataques com insetos, enquanto anko ataca e gekko ataca e countera também"
+    },
+    {
+      "OBJETIVO": "MISSÕES                (não indicado)",
+      "CHAR 1": "HATAKE KAKASHI",
+      "CHAR 2": "ABURAME SHINO (S)",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Usar shino para suporte e ir atacando com kakashi e gekko"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SAI",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "KIMIMARO",
+      "ESTRATEGIA": "Atacar com todos os personagens, sai pode stunar, dar dano e recuperar chakra roubado, anko dano affliction e kimimaro dano que não pode ser counterado ou refletido"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ABURAME SHINO (S)",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Shino defende e ataca enquanto naruto e gekko se complementam em ataque e gekko stuna principalmente AOE"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ABURAME SHINO (S)",
+      "CHAR 2": "UCHIHA SASUKE",
+      "CHAR 3": "SARUTOBI KONOHAMARU",
+      "ESTRATEGIA": "Shino defende e ataca enquanto sasuke e konohamaru se complementam em ataque e konohamaru countera bem. Ele também impede que aliados sejam mortos instantaneamente"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ABURAME SHINO (S)",
+      "CHAR 2": "MAITO GAI (S)",
+      "CHAR 3": "SARUTOBI KONOHAMARU",
+      "ESTRATEGIA": "A equipe consiste em atacar um inimigo enquanto countera as skills dele, mirar sempre com o rasengan do konohamaru em um inimigo promissor a fazer a proxima jogada, também é interessante ir minando o inimigo com insetos do shino"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "MAITO GAI (S)",
+      "CHAR 2": "SAI",
+      "CHAR 3": "MITARASHI ANKO",
+      "ESTRATEGIA": "O problema dessa equipe é ser lenta, mas é bastante eficiente, usar sai pra stunar e atacar enquanto gai e anko antacam"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SHIZUNE",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "MITARASHI ANKO",
+      "ESTRATEGIA": "Equipe muito boa, shizune cura e ataca enquanto gekko e anko se completam no ataque e counter AOE"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SHUKAKU GAARA",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "MITARASHI ANKO",
+      "ESTRATEGIA": "Gaara tem um papel muito importante de impedir os ataques perigosos com o counter dele atrasando o time adversario enquanto dar dano om gekko e anko"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "AKIMICHI CHOUJI (S)",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "MITARASHI ANKO",
+      "ESTRATEGIA": "Só transformar o chouji em ultimo caso, deixar ele normal pra usar o counter dele e proteger aliados (esse será o papel principal dele no time, transformar ele apenas se realmente precisar como membros do time morrer ou ele estiver sendo focado) enquanto ataca com todos."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "INUZUKA KIBA (S)",
+      "CHAR 2": "SARUTOBI KONOHAMARU",
+      "CHAR 3": "MITARASHI ANKO",
+      "ESTRATEGIA": "Atacar com kiba, konohamaru e anko, konohamaru também serve de counter  e é uma equipe bem versátil, caso consiga transforme o kiba para a melhor forma que tiver disponivel"
+    },
+    {
+      "OBJETIVO": "MISSÕES                (não indicado)",
+      "CHAR 1": "YOUNG KAKASHI",
+      "CHAR 2": "DRUNKEN LEE",
+      "CHAR 3": "SHIGURE",
+      "ESTRATEGIA": "Counterar com lee enquanto ataca com shigure e kakashi, não é muito indicado pelo conflito de chakra de lee e kakashi e pelo alto consumo de chakra da equipe em si"
+    },
+    {
+      "OBJETIVO": "MISSÕES                (não indicado)",
+      "CHAR 1": "YAMANAKA INO",
+      "CHAR 2": "HARUNO SAKURA",
+      "CHAR 3": "MAKI (S)",
+      "ESTRATEGIA": "A equipe se baseia em ir stunando os oponentes da forma que pode"
+    },
+    {
+      "OBJETIVO": "MISSÕES                (não indicado)",
+      "CHAR 1": "YAMANAKA INO",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "DRUNKEN LEE",
+      "ESTRATEGIA": "Sem muito misterio, counterar, stunar e atacar"
+    },
+    {
+      "OBJETIVO": "MISSÕES                (não indicado)",
+      "CHAR 1": "AKIMICHI CHOUZA",
+      "CHAR 2": "HYUUGA HINATA (S)",
+      "CHAR 3": "YAMASHIRO AOBA",
+      "ESTRATEGIA": "Equipe focada em defesa e dificultar o jogo do oponente"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "HYUUGA NEJI (S)",
+      "CHAR 2": "HARUNO SAKURA (S)",
+      "CHAR 3": "YAMANAKA FU",
+      "ESTRATEGIA": "Trabalhar com counter, neji consegue counterar quem atacar ele e o fu consegue counterar quem atacar qualquer um, vai curando com sakura e atacando principalmente com neji removendo chakra do oponente lentamente e removendo defesas caso precise com o proprio neji"
+    },
+    {
+      "OBJETIVO": "LADDER",
+      "CHAR 1": "HYUUGA HIASHI",
+      "CHAR 2": "HYUUGA HINATA (S)",
+      "CHAR 3": "SHIZUNE (S)",
+      "ESTRATEGIA": "Equipe focada em dar trabalho ao oponente se curando, roubando chakra e aumentando o custo de chakra do oponente"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "KYUUBI NARUTO",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "YAMANAKA FU",
+      "ESTRATEGIA": "Ataca dando prioridade ao combo anko dragon fire + kyuubi rage do naruto, isso tira 25 de todos por 2 turnos, vai usando rasengan pra stunar e ir finalizando, sempre use o fuu para tirar os inimigos problematicos amigaveis do jogo e pra counterar"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "YOUNG KAKASHI",
+      "CHAR 2": "SHIGURE",
+      "CHAR 3": "MIZUKI",
+      "ESTRATEGIA": "Atacar com a chuva de kunais o mais cedo e no turno seguinte usar execution shuriken + algum ataque do kakashi pra finalizar o alvo"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "YAKUSHI KABUTO",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "YAMATO",
+      "ESTRATEGIA": "Atacar com todos os 3 chars e defender com yamato e gekko counterando"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "CURSED SEAL SASUKE",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "YAMATO",
+      "ESTRATEGIA": "Equipe fácil de usar, sasuke stuna e da muito dano enquanto gekko e yamato countera, stuna e ignora ajudas enqunto gekko aumenta o proprio dano"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "OROCHIMARU",
+      "CHAR 2": "MOMOCHI ZABUZA",
+      "CHAR 3": "KYUUBI NARUTO",
+      "ESTRATEGIA": "Ganhar chakra com orochimaru enquanto stuna e aumenta o custo com zabuza , também vai atacando all e stunando com naruto kyuubi"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "OROCHIMARU (S)",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Usar gekko e anko para ataque, orochimaru serve mais como controler, diminuindo rounds de stun e stunando enquanto da dano"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "OROCHIMARU (S)",
+      "CHAR 2": "MOMOCHI ZABUZA",
+      "CHAR 3": "SHIZUNE (S)",
+      "ESTRATEGIA": "Orochimaru vai stunando e controlando o time adversario reduzindo efeitos de stun enquanto dar dano, enquanto zabuza vai stunando, aumentando o custo e causando dano, shizune é muito boa pra counterar e atacar ficando ivulneravel"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "JIRAIYA",
+      "CHAR 2": "OROCHIMARU",
+      "CHAR 3": "SHIZUNE (S)",
+      "ESTRATEGIA": "Usar a marca da maldição do orochimaru na shizune e usar a preparação dela, tentar usar a cobra do orochi o mais rapido possivel para aumentar o valor de chakra da equipe e assim q possivel invocar o sapo com jiraiya e ir atacando com katon, shizune pode ir curando(também puxando chakra pra equipe), atacando e counterando"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "EDO TENSEI HAKU (S)",
+      "CHAR 2": "SHIZUNE (S)",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Todos nessa equipe tem um counter, a estrategia se baseia em saber quando usar, curar e atacar, o counter do haku deixa o oponente stunado por 2 turnos, ganhando um tempo pra sua equipe se desenvolver e atacar"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "EDO TENSEI ZABUZA (S)",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Usar a preparação do zabuza assim que possivel para aumentar o dano enquanto com gekko e anko vai atacando, assim que prepado fazer o zabuza entrar na partida sugando vida, causando dano e retirando chakra"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "EDO TENSEI FUKAI (S)",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Combar o chakra arms do fukai com o dragon fire da anko, quando preciso stune oponentes perigosos com fukai e vai atacando com todo mundo, gekko como sempre serve de um otimo counter pra conter inimigos aoe"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "NOHARA RIN",
+      "CHAR 2": "EDO TENSEI FUKAI (S)",
+      "CHAR 3": "HYUUGA HIASHI",
+      "ESTRATEGIA": "Rin vai curando os aliados enquanto fukai da dano aoe affliction, dano focado em 1 e stunando, enquanto isso hiashi vai usando o gentle fist para retirar chakra do oponente, a estrategia é dificultar o jogo do inimigo enquanto ataca"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "AO (S)",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Ao(s) usa blood para atacar impedindo os oponentes ficarem ivulneraveis e também para counterar, focar usando isso enquando desenvolve anko e gekko com seus respectivos ataques, usando gekko também para counterar passa a ter 2 counters no time"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "MAKI (S)",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "YAMATO",
+      "ESTRATEGIA": "Vai stunando inimigos perigosos antes deles atacarem e counterando com a equipe, yamato impede que o oponente fique ivulneravel e tem um ótimo counter que pode proteger aliados"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "NAMIKAZE MINATO",
+      "CHAR 2": "HYUUGA HIASHI",
+      "CHAR 3": "EDO TENSEI PAKURA (S)",
+      "ESTRATEGIA": "preferencia de tai pra Hiashi para remover chakra do oponente, em seguida com tai usar o searing combat da pakura que da 20 de dano de aflição por turno a 1 oponente, enquanto tenta ir atacando também com o minato, a estrategia é bem simples e envolve remover chakra e atacar, refletir dano com hiashi quando necessario também é uma boa"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "UZUMAKI KUSHINA",
+      "CHAR 2": "HATAKE KAKASHI",
+      "CHAR 3": "ABURAME SHINO (S)",
+      "ESTRATEGIA": "Kushina leva o inimigo mais problematico e cura aliados, também pode stunar oponentes e remover efeitos problematicos deles, enquanto kakashi tem um alto dano e shino um dano silencioso e counter excelente pois quando ninguem cai o chakra retorna"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "TAYUYA",
+      "CHAR 2": "KANKURO",
+      "CHAR 3": "JIRAIYA",
+      "ESTRATEGIA": "Jiraiya e Kankuro dão dano affliction, enquanto jiraiya após a invocação do gamabuta vai aumentar o dano affliction, assim que possivel use o gamabuta e vai atacando, quando preciso também usar toad mouth para atrasar o jogo e juntar mais chakra."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "JIROUBOU",
+      "CHAR 2": "SHIGURE",
+      "CHAR 3": "JIRAIYA",
+      "ESTRATEGIA": "Causar o maximo de dano AOE com shigure e jiraiya enquanto focaliza pra matar rapido um oponente com shigure e jiroubou, após isso, vai pra o proximo, sempre atacando todos e focalizando em 1."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SAKON AND UKON",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Tentar o mais cedo possivel usar o parasite demon do Sakon enquanto vai atacando com gekko e anko, tentar focar em matar um oponente rapido enquanto sakon vai tirando vida do outro"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "KIDOUMARU",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "MIZUKI",
+      "ESTRATEGIA": "Combar mizuki com gekko ou mizuki com kidoumaru para finalizar rapidamente um oponente, usar também kidoumaru e gekko para counterar sempre que tiver em perigo."
+    },
+    {
+      "OBJETIVO": "LADDER ACADEMY",
+      "CHAR 1": "HYUUGA HINATA",
+      "CHAR 2": "NARA SHIKAMARU",
+      "CHAR 3": "ABUMI ZAKU",
+      "ESTRATEGIA": "Usar o byakugan cedo para ir removendo chakra enquando causa dano com todos, sempre lembrando de stunar com shikamaru e atacar com zaku quando possivel, counterar também sempre ajuda"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "HARUNO SAKURA (S)",
+      "CHAR 2": "YAMATO",
+      "CHAR 3": "SAI",
+      "ESTRATEGIA": "Usar a preparação da sakura e do sai, evitando tomar stun e aumentando o dano do sai toda vez que for atacado, enquanto cura com a sakura sempre q preciso e countera com yamato, também é super válido usar o stun o yamato e do sai para parar inimigos problematicos"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SHIZUNE",
+      "CHAR 2": "KIMIMARO",
+      "CHAR 3": "UCHIHA ITACHI",
+      "ESTRATEGIA": "Usar nevoa de veneno sempre que possivel e ir atacando com itachi e kimimaro, sempre curando quando necessario, evitar usar a floresta de ossos do kimimaro, ela causa muito dano colateral, tenta ir usando o dance of the camella e o clematis, usar a floresta de ossos quando for extremamente necessario por ter counter ou precisar reduzir o dano do oponente"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SARUTOBI ASUMA (S)",
+      "CHAR 2": "HARUNO SAKURA (S)",
+      "CHAR 3": "SHIZUNE (S)",
+      "ESTRATEGIA": "Use o ash pile burning do asuma o mais cedo possivel, enquanto vai se curando e esperando o efeito da habilidade aumentar o maximo que conseguir, sempre q puder ataque um oponente para diminuir suas vidas e ficar mais fácil o ataque do asuma ultrapassar o hp do inimigo antes de detonar."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "HOZUKI SUIGETSU (S)",
+      "CHAR 2": "BAKI",
+      "CHAR 3": "ABURAME SHINO",
+      "ESTRATEGIA": "Equipe focada na defesa e ataque, baki pode ajudar um aliado impedindo stun e dando 50 pontos de defesa a ele, suigetsu aumenta a propria defesa a cada ataque e shino defende o time e ataca tirando chakra, eles combam muito bem."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "KARIN (S)",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Gekko ataca e countera enquanto anko ataca aoe affliction, karin vai curando e finalizando alvos que ficam ivulneraveis."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "KANKURO",
+      "CHAR 2": "EDO TENSEI TAYUYA (S)",
+      "CHAR 3": "MITARASHI ANKO",
+      "ESTRATEGIA": "Equipe focada em dano affliction, a tayuya edo aumenta o dano de ataques affliction dos aliados e a anko e o kankuro correspondem a isso, então focar usando os dokis da tayuya seguido pelo dragon fire da anko ou do poison bomb do kankuro."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "TEMARI",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "YAMATO",
+      "ESTRATEGIA": "Atacar com temari a torna ivulneravel, pode se aproveitar disso para dificultar o oponente a derrota-la, yamato ignora skills amigaveis, stuna e countera, basta saber usar sabiamente e o time vai pra frente com gekko atacando e counterando também."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "KANKURO",
+      "CHAR 2": "CURSED SEAL LV1 SASUKE",
+      "CHAR 3": "UCHIHA ITACHI",
+      "ESTRATEGIA": "A estrategia se baseia em atacar com sasuke e kankuro enquanto vai stunando o oponente com itachi, caso sobre ninjutsu pode usar também o amaterasu, usar apenas o mg do itachi em casos extremos."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "UCHIHA ITACHI",
+      "CHAR 2": "KYUUBI NARUTO",
+      "CHAR 3": "HARUNO SAKURA (S)",
+      "ESTRATEGIA": "Preparar sakura e tentar atacar com o kyuubi rage do naruto, caso não seja possivel vai atacando com o rasengan ou com o tsukuyomi do itachi para stunar inimigos perigosos e ir enfraquecendo o time rival"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "HOSHIGAKI KISAME",
+      "CHAR 2": "YAMATO",
+      "CHAR 3": "SHIZUNE (S)",
+      "ESTRATEGIA": "Equipe muito boa baseado em curar, stunar e counterar, consegue defender seus aliados, stunar oponentes e ir causando dano ao mesmo tempo."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "HIDAN (S)",
+      "CHAR 2": "YAMATO",
+      "CHAR 3": "SHIZUNE (S)",
+      "ESTRATEGIA": "Atacar com hidan e assim que possivel usar o jashin, ir usando yamato e shizune para ajudar a finaliar o alvo, counterar ataques, curar e stunar."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "DEIDARA (S)",
+      "CHAR 2": "YAMATO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Deixe o deidara com apenas a primeira prepatação (medium) pois o foco da equipe é atacar um inimigo único, os oponentes normalmente evitam atacar o deidara e como o gekko tem um counter ao atacar, normalmente foram no yamato, então quando sentir que vai ser atacado use o counter do yamato em si mesmo e vai atacando um oponente unico até finalizar."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "AKATSUCHI (S)",
+      "CHAR 2": "TAYUYA",
+      "CHAR 3": "HYUUGA NEJI (S)",
+      "ESTRATEGIA": "A estrategia é limitar o chakra do oponente atacando principalmente com o golen chakra devour e o neji, também quando possivel ataque aoe com tayuya e akatsuchi, stunar em situações de risco é sempre bem vindo."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SARUTOBI HIRUZEN",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "SORA (S)",
+      "ESTRATEGIA": "Usar Sora para ir controlando os inimigos com counter, stun e removendo efeitos amigaveis, enquanto vai atacando com gekko e sarutobi, em emergencias usar a morte do hiruzen"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ET SENJU HASHIRAMA",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "MITARASHI ANKO",
+      "ESTRATEGIA": "Hashirama é muito bom para stunar inimigos, criar proteções e atacar em área, aproveita ele para ir dificultando o jogo do inimigo enquanto ataca com gekko e anko."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "INUZUKA KIBA (S)",
+      "CHAR 2": "SHIZUNE (S)",
+      "CHAR 3": "KANKURO (S)",
+      "ESTRATEGIA": "Iniciar prepare Kiba e Shizune, caso o time seja affliction usa com urgencia o sanshouo do kankuro para travar a equipe oponente. Vai counterando oponentes com kankuro e fortalecendo sua defesa enquanto countera com shizune, cura e ataca pesado com kiba"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "HARUNO SAKURA (S)",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "YAMATO",
+      "ESTRATEGIA": "Atacar e counterar com yamato, sempre preparar a sakura para ir curando o time dando suporte. Gekko vai aumentando o proprio dano e causando dano preparando um counter."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "JUUGO (S)",
+      "CHAR 2": "KARIN (S)",
+      "CHAR 3": "UCHIHA IZUNA",
+      "ESTRATEGIA": "Stunar com izuna e impossibilitar alguem de jogar enquanto ataca e stuna com juugo e vai curando com karin, equipe bem balanceada."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "KILLER BEE (S)",
+      "CHAR 2": "YAMATO",
+      "CHAR 3": "SHIZUNE (S)",
+      "ESTRATEGIA": "Todos os personagens da equipe tem um counter, saiba usar para conter seus oponentes. Prepare o Bee e a Shizune e vá atacando e defendendo com todos."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ATSUI (S)",
+      "CHAR 2": "EDO TENSEI ZABUZA (S)",
+      "CHAR 3": "UCHIHA IZUNA",
+      "ESTRATEGIA": "Prepare atsui e zabuza, izuna vai stunando e atacando, enquanto zabuza tem um dano muito alto e remove chakra do oponente, vai impedindo o time adversario de atacar usando o fire wall do atsui."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "OMOI (S)",
+      "CHAR 2": "THREE TAILS KYUUBI NARUTO (S)",
+      "CHAR 3": "UCHIHA IZUNA",
+      "ESTRATEGIA": "Preparar izuna e naruto, depois ir colocando o paper trap do omoi nos aliados para dar dano em quem os atacar, vai stunando os oponentes e atacando."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "DARUI (S)",
+      "CHAR 2": "HYUUGA HIASHI",
+      "CHAR 3": "UCHIHA IZUNA",
+      "ESTRATEGIA": "Stunar inimigos problematicos com Izuna e vai removendo chakra com hiashi, izuna também pode stunar e dar dano em inimigos."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ET SENJU HASHIRAMA",
+      "CHAR 2": "ET SENJU TOBIRAMA",
+      "CHAR 3": "DRUNKEN LEE",
+      "ESTRATEGIA": "Atacar como puder, stunando e counterando quando necessario."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "MAITO GAI",
+      "CHAR 2": "YAMATO",
+      "CHAR 3": "SHIZUNE (S)",
+      "ESTRATEGIA": "Todos os personagens da equipe tem um counter, saiba usar para conter seus oponentes."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "NAMIKAZE MINATO",
+      "CHAR 2": "ET SENJU HASHIRAMA",
+      "CHAR 3": "OROCHIMARU",
+      "ESTRATEGIA": "Tente poupar chakra para summon do orochimaru, usa a maldição dele no minato pois o minato fica ivulneravel muitas vezes na partida, então o perigo de ficar sendo atacado é menor, vai stunando, gerando chakra e atacando."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "UZUMAKI KUSHINA",
+      "CHAR 2": "YAMATO",
+      "CHAR 3": "SHIZUNE (S)",
+      "ESTRATEGIA": "Evitar o sacrificio da kushina e focar muito nos counters, heals e stuns, dificulta o jogo do adversario enquanto causa dano."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "UZUMAKI KUSHINA",
+      "CHAR 2": "MAITO GAI (S)",
+      "CHAR 3": "KONAN (S)",
+      "ESTRATEGIA": "Tentar stunar com a konan, vai preparando o gai e stunando com a kushina, caso necessario use o life link da kushina em inimigos perigosos para ir healando aliados."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "AKIMICHI CHOUJI (S)",
+      "CHAR 2": "UCHIHA IZUNA",
+      "CHAR 3": "SARUTOBI KONOHAMARU",
+      "ESTRATEGIA": "Usar chouji principalmente para counterar, então evite preparar ele, izuna atacando e stunando enquanto comba com konohamaru counterando, atacando e impedindo q aliados morram."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "YAMANAKA INO",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "EDO TENSEI GINKAKU (S)",
+      "ESTRATEGIA": "Stunar com ino e gingaku enquanto vai dando dano como puder, a equipe consiste em ir inutilizando um oponente e ir dando dano affliction."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "YAMATO",
+      "CHAR 2": "UCHIHA IZUNA",
+      "CHAR 3": "EDO TENSEI GINKAKU (S)",
+      "ESTRATEGIA": "Equipe bem simples em estrategia, baseada em atacar, stunar e counterar, ela produz dano enquanto vai minando o oponente e é muito bem distribuida em chakra."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "CHIYO (S)",
+      "CHAR 2": "KINUTA DOSU",
+      "CHAR 3": "HATAKE KAKASHI",
+      "ESTRATEGIA": "Preparar o Dosu e ir atacando com todos, quando possivel aprisionar inimigos para hitkill com kakashi e usar o sharingan dele para refletir ataques."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "CHIYO (S)",
+      "CHAR 2": "HOSHIGAKI KISAME",
+      "CHAR 3": "KONAN (S)",
+      "ESTRATEGIA": "A equipe se baseia em ir stunando os oponentes analizando o tipo de atque pra usar o stun correto, enquanto vai causando dano."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "PUPPET SASORI (S)",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "EDO TENSEI CHUKICHI (S)",
+      "ESTRATEGIA": "Usar jamming jutsu do chukichi assim que possivel para dificuldade o jogo do oponente, após isso vai tentando combar com sasori stunando e atacando com o gekko, assim que possivel também usar hidden frost do chukichi e auxiliar no ataque."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SENNIN JIRAIYA (S)",
+      "CHAR 2": "THREE TAILS KYUUBI NARUTO (S)",
+      "CHAR 3": "UCHIHA IZUNA",
+      "ESTRATEGIA": "Atacar pesado com jiraiya enquanto vai atacando e stunando com izuna, equipe sem muita estrategia e se baseia em atacar combando para mata rapido."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SENNIN NARUTO (S)",
+      "CHAR 2": "KAKUZU (S)",
+      "CHAR 3": "SHIZUNE (S)",
+      "ESTRATEGIA": "Stuna com Naruto e kakuzu, countera com shizune s e vai dando dano massivo nos oponentes, equipe mata rapido e heala, muito bem balanceada."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ABURAME TORUNE",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "EDO TENSEI CHUKICHI (S)",
+      "ESTRATEGIA": "Usar chukichi para aumentar o custo do oponente e limitar o desenvolvimento dele enquanto a anko e o torune ataca com affliction ignorando defesas, torune também pode ser usado para aumentar o custo do oponente quando for possivel, assim como chukichi também pode atacar."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "NII YUGITO (S)",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Preparar a yugito enquanto ataca com anko e gekko, após o ataque em área da anko foque em um inimigo  atacando com todos para elimina-lo rapidamente."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "AO (S)",
+      "CHAR 2": "CHOJURO (S)",
+      "CHAR 3": "MANGEKYOU SASUKE (S)",
+      "ESTRATEGIA": "Equipe bem balanceada com counter, alto dano e stun, pare inimigos problematicos stunando com sasuke e quando possivel usar o amaterasu para dar dano permanente."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SHEE (S)",
+      "CHAR 2": "KILLER BEE (S)",
+      "CHAR 3": "SORA (S)",
+      "ESTRATEGIA": "Eliminar ajudas e counterar com o Sora enquanto ataca com bee e shee, sempre atento também a curas com o Shee e manter o seu time vivo o maximo que puder, a equipe é muito boa."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "TEMARI (S)",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "YAMATO",
+      "ESTRATEGIA": "Preparar Temari até o ultimo para ficar pronta para o ataque enquanto vai atacando e counterando com gekko e yamato, a equipe é bem intuitiva e se completa bem."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SHIGURE",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "EDO TENSEI FUKAI (S)",
+      "ESTRATEGIA": "Equipe boa AOE, shigure da dano pircing, anko e fukai affliction, assim ignoram as defesas o oponente, além de um bom ataque focado com shigure e fukai, podendo também stunar oponentes em situações de risco."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "OBORO",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "KIMIMARO",
+      "ESTRATEGIA": "Equipe com alguns problemas e não muito indicada, em chakra bem distribuido mas muito cara e depende um pouco de sorte para usar os combos em momentos corretos para limitar o oponente."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "EDO TENSEI HANZO (S)",
+      "CHAR 2": "KANKURO",
+      "CHAR 3": "JIRAIYA",
+      "ESTRATEGIA": "Dano AOE affliction muito bom para ignorar defesas e atacar massivamente a equipe oponente, tentar poupar chakra para o summon do jiraiya e assim aumentar o dano affliction da equipe permanentemente."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "UCHIHA IZUNA",
+      "CHAR 2": "KONAN (S)",
+      "CHAR 3": "EDO TENSEI JININ (S)",
+      "ESTRATEGIA": "Stunar oponentes é a base dessa equipe, tente usar o origami blanket da konan o mais cedo possivel em inimihos problematicos e vai atacando ele e stunando algum outro sempre q puder, finalize esse oponente do blanket antes do stun acabar e vai inutilizando a equipe inimiga assim."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SENNIN NARUTO (S)",
+      "CHAR 2": "ET SENJU TOBIRAMA",
+      "CHAR 3": "SORA (S)",
+      "ESTRATEGIA": "Equipe muito boa por seu equilibrio de chakras, tobirama não da chances a chars affliction, sora remove skills aliadas, stuna, countera e remove chakra, e naruto stuna e da um alto dano, equipe ataca muito bem em conjunto."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ITTAN (S)",
+      "CHAR 2": "SENNIN JIRAIYA (S)",
+      "CHAR 3": "YAMASHIRO AOBA",
+      "ESTRATEGIA": "Tente aumentar o dano da equipe com o ittan e combar com o aoba, enquanto vai atacando massivamente com sannin jiraiya (que também pode ser substituido por 4 caudas)"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "SENNIN JIRAIYA (S)",
+      "CHAR 2": "KONAN (S)",
+      "CHAR 3": "MANGEKYOU SASUKE (S)",
+      "ESTRATEGIA": "Stunar com konan e sasuke para impedir o desenvolvimento de inimigos problmaticos enquanto ataca massivamente com konan e jiraiya, equipe bem intuitiva e com uma boa divisão de chakras"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "EDO TENSEI AMEYURI (S)",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "SORA (S)",
+      "ESTRATEGIA": "Defender e atacar, equipe muito bem quilibrada, sora counterando e stunando, ameyuri atacando e defendendo o time e gekko aumentando cada vez mais o dano, se possivel começar a partida com a preparação do gekko"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ET SENJU TOBIRAMA",
+      "CHAR 2": "GEKKO HAYATE",
+      "CHAR 3": "COMMANDER GAARA (S)",
+      "ESTRATEGIA": "Tentar combar desert layred  do gaara com o water colliding do tobirama, causando 30 de dano a todos por turno, impedindo de usr affliction e dando 5 de dano sempre que alguem atacar, enquanto aproveita os taijutsus para ir atacando com gekko"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ANIMAL PATH PEIN (S)",
+      "CHAR 2": "NARA SHIKAMARU (S)",
+      "CHAR 3": "INUZUKA TSUME",
+      "ESTRATEGIA": "Defende com Tsume, ataca com animal path, e eventualmente ataca com tsume e shikamaru stunando e dando dano em varios turnos impedindo ivul com o shikamaru."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "HUMAN PATH PEIN (S)",
+      "CHAR 2": "DARUI (S)",
+      "CHAR 3": "COMMANDER GAARA (S)",
+      "ESTRATEGIA": "Equipe focada em stunar e causar muito dano, vai stunando inimigos problematicos com human, darui e gaara enquanto ataca limpando o time inimigo 1 por 1"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "ASURA PATH PEIN (S)",
+      "CHAR 2": "SENNIN NARUTO (S)",
+      "CHAR 3": "EDO TENSEI CHUKICHI (S)",
+      "ESTRATEGIA": "Dificultar o jogo com chukichi aumentando o cuto de chakra enquanto ataca massivamente com naruto e desenvolve com asura, podendo atacar localizado, aoe ou dar dano em quem atacar aliados ou a si."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "NARAKA PATH PEIN (S)",
+      "CHAR 2": "SENNIN NARUTO (S)",
+      "CHAR 3": "COMMANDER GAARA (S)",
+      "ESTRATEGIA": "Naruto e Gaara stunam oponentes problematicos, aproveitar pra quando possivel atacar aoe com naraka e gaara, também dependendo do time iinimigo sempre é bom usar o sand eye do gaara para ganhar chakra e atacar massivamente com naruto"
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "DEVA PATH PEIN (S)",
+      "CHAR 2": "REHABILITATED GAARA",
+      "CHAR 3": "FUKASAKU AND SHIMA (S)",
+      "ESTRATEGIA": "Atacar aoe com todos é a prioridade, em times com muito counter ou inimigos muito problematicos focar em um e usar aoe quando possivel, usr o shinra tensei o mais cedo possivel, assim como."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "UCHIHA ITACHI (S)",
+      "CHAR 2": "HYUUGA HINATA (S)",
+      "CHAR 3": "HYUUGA HIASHI",
+      "ESTRATEGIA": "Time focado em remover chakra, aumentar custo e defender, dependendo do time foque os esforços em aumentar o custo, dependendo do time foque em dano, varie a estrategia de acordo com o que precisar."
+    },
+    {
+      "OBJETIVO": "MISSÕES",
+      "CHAR 1": "KONAN OF THE RAIN (S)",
+      "CHAR 2": "MITARASHI ANKO",
+      "CHAR 3": "GEKKO HAYATE",
+      "ESTRATEGIA": "Estrategia padrão gekko + anko, fortalece o gekko, ativa o counter quando preciso, ataca aoe affliction com a anko focando um inimigo quando sobra nin, konan usa o blood da equipe e ataca também com random, completa bem o dano do conjunto."
+    },
+    {
+      "OBJETIVO": "MISSÕES  ",
+      "CHAR 1": "UCHIHA OBITO",
+      "CHAR 2": "KYUUBI NARUTO",
+      "CHAR 3": "UCHIHA ITACHI",
+      "ESTRATEGIA": "Vai stunando com itachi e naruto, prepara obito quando possivel e tenta usar o aoe do naruto para causar mais dano a todos, assim vai levando o jogo sempre atacando mirando 1 para eliminar mais rapido e stunando problematicos."
+    }
+  ]
+}

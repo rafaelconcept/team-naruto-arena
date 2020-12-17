@@ -1,0 +1,846 @@
+[
+    {
+        "nome": "Uzumaki Naruto",
+        "foto": "https://i.imgur.com/mJ505HX.jpg"
+    },
+    {
+        "nome": "Haruno Sakura",
+        "foto": "https://i.imgur.com/PnQ7L54.jpg"
+    },
+    {
+        "nome": "Uchiha Sasuke",
+        "foto": "https://i.imgur.com/1cTOEtq.jpg"
+    },
+    {
+        "nome": "Inuzuka Kiba",
+        "foto": "https://i.imgur.com/wfrSWxS.jpg"
+    },
+    {
+        "nome": "Aburame Shino",
+        "foto": "https://i.imgur.com/uaMaL3v.jpg"
+    },
+    {
+        "nome": "Hyuuga Hinata",
+        "foto": "https://i.imgur.com/7uh5923.jpg"
+    },
+    {
+        "nome": "Nara Shikamaru",
+        "foto": "https://i.imgur.com/18BCDpO.jpg"
+    },
+    {
+        "nome": "Akimichi Chouji",
+        "foto": "https://i.imgur.com/C4mQVyG.jpg"
+    },
+    {
+        "nome": "Yamanaka Ino",
+        "foto": "https://i.imgur.com/6Qrq4yN.jpg"
+    },
+    {
+        "nome": "Rock Lee",
+        "foto": "https://i.imgur.com/LUA3QK2.jpg"
+    },
+    {
+        "nome": "Tenten",
+        "foto": "https://i.imgur.com/8hnWrsS.jpg"
+    },
+    {
+        "nome": "Hyuuga Neji",
+        "foto": "https://i.imgur.com/SnXl3u9.jpg"
+    },
+    {
+        "nome": "Gaara",
+        "foto": "https://i.imgur.com/Q7n6CS2.jpg"
+    },
+    {
+        "nome": "Kankuro",
+        "foto": "https://i.imgur.com/SYBuYD8.jpg"
+    },
+    {
+        "nome": "Temari",
+        "foto": "https://i.imgur.com/ytBdDmF.jpg"
+    },
+    {
+        "nome": "Kinuta Dosu",
+        "foto": "https://i.imgur.com/gDSGgOc.jpg"
+    },
+    {
+        "nome": "Tsuchi Kin",
+        "foto": "https://i.imgur.com/DbocPAq.jpg"
+    },
+    {
+        "nome": "Abumi Zaku",
+        "foto": "https://i.imgur.com/vo5hkwb.jpg"
+    },
+    {
+        "nome": "Young Kakashi",
+        "foto": "https://i.imgur.com/mlZ3sQZ.jpg"
+    },
+    {
+        "nome": "Uchiha Obito",
+        "foto": "https://i.imgur.com/EJ6aPHZ.jpg"
+    },
+    {
+        "nome": "Nohara Rin",
+        "foto": "https://i.imgur.com/aL3HebP.jpg"
+    },
+    {
+        "nome": "Hyuuga Hanabi",
+        "foto": "https://i.imgur.com/K6tuNhW.jpg"
+    },
+    {
+        "nome": "Anbu Kakashi",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/740746155213979663/unknown.png"
+    },
+    {
+        "nome": "Young Kushina",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/740748673700593736/unknown.png"
+    },
+    {
+        "nome": "Drunken Lee",
+        "foto": "https://i.imgur.com/mP8x94U.jpg"
+    },
+    {
+        "nome": "Rehabilitated Gaara",
+        "foto": "https://i.imgur.com/3rj7f8d.jpg"
+    },
+    {
+        "nome": "Oboro",
+        "foto": "https://i.imgur.com/DBsaS99.jpg"
+    },
+    {
+        "nome": "Shigure",
+        "foto": "https://i.imgur.com/ZoEQafG.jpg"
+    },
+    {
+        "nome": "Shiore Orochimaru",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/762377028346708029/PAE9VK6.png"
+    },
+    {
+        "nome": "Akadou Yoroi",
+        "foto": "https://i.imgur.com/060qNNB.jpg"
+    },
+    {
+        "nome": "Tsurugi Misumi",
+        "foto": "https://i.imgur.com/XhJRm9R.jpg"
+    },
+    {
+        "nome": "Umino Iruka",
+        "foto": "https://i.imgur.com/LtDEUXs.jpg"
+    },
+    {
+        "nome": "Mizuki",
+        "foto": "https://i.imgur.com/P5CYE5b.jpg"
+    },
+    {
+        "nome": "Jiroubou",
+        "foto": "https://i.imgur.com/7QDOEKi.jpg"
+    },
+    {
+        "nome": "Kidoumaru",
+        "foto": "https://i.imgur.com/ucBib4i.jpg"
+    },
+    {
+        "nome": "Tayuya",
+        "foto": "https://i.imgur.com/KrWQAff.jpg"
+    },
+    {
+        "nome": "Sakon and Ukon",
+        "foto": "https://i.imgur.com/gvWVEJS.jpg"
+    },
+    {
+        "nome": "Kimimaro",
+        "foto": "https://i.imgur.com/y0cd0B6.jpg"
+    },
+    {
+        "nome": "Mitarashi Anko",
+        "foto": "https://i.imgur.com/U5v1Rcf.jpg"
+    },
+    {
+        "nome": "Gekko Hayate",
+        "foto": "https://i.imgur.com/27uiJA7.jpg"
+    },
+    {
+        "nome": "Shizune",
+        "foto": "https://i.imgur.com/TYK8ol3.jpg"
+    },
+    {
+        "nome": "Hatake Kakashi",
+        "foto": "https://i.imgur.com/pRcnSPW.jpg"
+    },
+    {
+        "nome": "Yuhi Kurenai",
+        "foto": "https://i.imgur.com/Y8H4GaZ.jpg"
+    },
+    {
+        "nome": "Sarutobi Asuma",
+        "foto": "https://i.imgur.com/HV0tCHT.jpg"
+    },
+    {
+        "nome": "Maito Gai",
+        "foto": "https://i.imgur.com/s4q8Evn.jpg"
+    },
+    {
+        "nome": "Uzumaki Kushina",
+        "foto": "https://i.imgur.com/BcWzfuD.jpg"
+    },
+    {
+        "nome": "Namikaze Minato",
+        "foto": "https://i.imgur.com/bVLkunH.jpg"
+    },
+    {
+        "nome": "Baki",
+        "foto": "https://i.imgur.com/NO5GmnK.jpg"
+    },
+    {
+        "nome": "Yakushi Kabuto",
+        "foto": "https://i.imgur.com/E11xIcP.jpg"
+    },
+    {
+        "nome": "Tsunade",
+        "foto": "https://i.imgur.com/zJqAumx.jpg"
+    },
+    {
+        "nome": "Jiraiya",
+        "foto": "https://i.imgur.com/IBKeuRK.jpg"
+    },
+    {
+        "nome": "Orochimaru",
+        "foto": "https://i.imgur.com/sahda1H.jpg"
+    },
+    {
+        "nome": "ET Senju Hashirama",
+        "foto": "https://i.imgur.com/lx7k4ta.jpg"
+    },
+    {
+        "nome": "ET Senju Tobirama",
+        "foto": "https://i.imgur.com/tO7VWKo.jpg"
+    },
+    {
+        "nome": "Sarutobi Hiruzen",
+        "foto": "https://i.imgur.com/OUgT0V5.jpg"
+    },
+    {
+        "nome": "Yondaime Minato",
+        "foto": "https://i.imgur.com/DsFnGsQ.jpg"
+    },
+    {
+        "nome": "Demon Brothers",
+        "foto": "https://i.imgur.com/YU7VX3M.jpg"
+    },
+    {
+        "nome": "Haku",
+        "foto": "https://i.imgur.com/aOI3nqf.jpg"
+    },
+    {
+        "nome": "Momochi Zabuza",
+        "foto": "https://i.imgur.com/MfQw16g.jpg"
+    },
+    {
+        "nome": "Cursed Seal Lv1 Sasuke",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/746372681678454895/fp.png"
+    },
+    {
+        "nome": "Kyuubi Naruto",
+        "foto": "https://i.imgur.com/YEKXhxq.jpg"
+    },
+    {
+        "nome": "Cursed Seal Sasuke",
+        "foto": "https://i.imgur.com/LMkDtoH.jpg"
+    },
+    {
+        "nome": "Shukaku Gaara",
+        "foto": "https://i.imgur.com/uC9FOvX.jpg"
+    },
+    {
+        "nome": "Butterfly Chouji",
+        "foto": "https://i.imgur.com/QkgMbqM.png"
+    },
+    {
+        "nome": "Hoshigaki Kisame",
+        "foto": "https://i.imgur.com/3fyxx9s.jpg"
+    },
+    {
+        "nome": "Uchiha Itachi",
+        "foto": "https://i.imgur.com/CJq4L3b.jpg"
+    },
+    {
+        "nome": "Uzumaki Naruto (S)",
+        "foto": "https://i.imgur.com/lhqUN40.jpg"
+    },
+    {
+        "nome": "Sarutobi Konohamaru",
+        "foto": "https://i.imgur.com/HRxoGfU.jpg"
+    },
+    {
+        "nome": "Ebisu (S)",
+        "foto": "https://i.imgur.com/wzH6r70.png"
+    },
+    {
+        "nome": "Haruno Sakura (S)",
+        "foto": "https://i.imgur.com/fDv1r8u.jpg"
+    },
+    {
+        "nome": "Sai",
+        "foto": "https://i.imgur.com/IdHPF6Y.jpg"
+    },
+    {
+        "nome": "Inuzuka Kiba (S)",
+        "foto": "https://i.imgur.com/uqxqxud.jpg"
+    },
+    {
+        "nome": "Aburame Shino (S)",
+        "foto": "https://i.imgur.com/b9RYfHI.jpg"
+    },
+    {
+        "nome": "Hyuuga Hinata (S)",
+        "foto": "https://i.imgur.com/V00dORd.jpg"
+    },
+    {
+        "nome": "Nara Shikamaru (S)",
+        "foto": "https://i.imgur.com/ohilgKw.png"
+    },
+    {
+        "nome": "Akimichi Chouji (S)",
+        "foto": "https://i.imgur.com/cpjcOma.jpg"
+    },
+    {
+        "nome": "Yamanaka Ino (S)",
+        "foto": "https://i.imgur.com/MdT1rnR.jpg"
+    },
+    {
+        "nome": "Rock Lee (S)",
+        "foto": "https://i.imgur.com/Rndm6VG.jpg"
+    },
+    {
+        "nome": "Tenten (S)",
+        "foto": "https://i.imgur.com/QvuPmaF.jpg"
+    },
+    {
+        "nome": "Hyuuga Neji (S)",
+        "foto": "https://i.imgur.com/RQOMpEc.jpg"
+    },
+    {
+        "nome": "Shizune (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/740748198284361859/unknown.png"
+    },
+    {
+        "nome": "Hatake Kakashi (S)",
+        "foto": "https://i.imgur.com/vsTfCCR.jpg"
+    },
+    {
+        "nome": "Yamato",
+        "foto": "https://i.imgur.com/rOl0Tjw.jpg"
+    },
+    {
+        "nome": "Maito Gai (S)",
+        "foto": "https://i.imgur.com/rHu2cRP.jpg"
+    },
+    {
+        "nome": "Sarutobi Asuma (S)",
+        "foto": "https://i.imgur.com/fdESPB5.jpg"
+    },
+    {
+        "nome": "Yamashiro Aoba",
+        "foto": "https://i.imgur.com/ByKR679.jpg"
+    },
+    {
+        "nome": "Izumo and Kotetsu",
+        "foto": "https://i.imgur.com/xi9W7p4.jpg"
+    },
+    {
+        "nome": "Inuzuka Tsume",
+        "foto": "https://i.imgur.com/YjG8Xw0.jpg"
+    },
+    {
+        "nome": "Akimichi Chouza",
+        "foto": "https://i.imgur.com/8VJqNuB.jpg"
+    },
+    {
+        "nome": "Morino Ibiki",
+        "foto": "https://i.imgur.com/iUolzUw.jpg"
+    },
+    {
+        "nome": "Zaji",
+        "foto": "https://i.imgur.com/cIITVlZ.png"
+    },
+    {
+        "nome": "Uzuki Yugao",
+        "foto": "https://i.imgur.com/gHipAIK.png"
+    },
+    {
+        "nome": "Hyuuga Hiashi",
+        "foto": "https://i.imgur.com/s5cIHGE.jpg"
+    },
+    {
+        "nome": "Aburame Torune",
+        "foto": "https://i.imgur.com/Ge3Wcoy.jpg"
+    },
+    {
+        "nome": "Yamanaka Fu",
+        "foto": "https://i.imgur.com/iVhxEWL.jpg"
+    },
+    {
+        "nome": "Shimura Danzo",
+        "foto": "https://i.imgur.com/7CoWBNW.jpg"
+    },
+    {
+        "nome": "Tsunade (S)",
+        "foto": "https://i.imgur.com/itj8Rm2.jpg"
+    },
+    {
+        "nome": "Ohnoki (S)",
+        "foto": "https://i.imgur.com/5np3XzG.png"
+    },
+    {
+        "nome": "Terumi Mei (S)",
+        "foto": "https://i.imgur.com/xELER17.png"
+    },
+    {
+        "nome": "Ay (S)",
+        "foto": "https://i.imgur.com/LToZAR5.png"
+    },
+    {
+        "nome": "Mifune (S)",
+        "foto": "https://i.imgur.com/hvh4Btj.png"
+    },
+    {
+        "nome": "Commander Gaara (S)",
+        "foto": "https://i.imgur.com/G5NFC8u.png"
+    },
+    {
+        "nome": "Captain Kankuro (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/767054053648891904/rq1XBvx.png"
+    },
+    {
+        "nome": "Captain Temari (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/754041933004800050/ctwkupL.png"
+    },
+    {
+        "nome": "Senju Hashirama",
+        "foto": "https://i.imgur.com/cKXHNBc.jpg"
+    },
+    {
+        "nome": "Senju Tobirama",
+        "foto": "https://i.imgur.com/85tgbgm.png"
+    },
+    {
+        "nome": "Uchiha Izuna",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/754042088911274126/gFeToQG.png"
+    },
+    {
+        "nome": "Uchiha Shisui",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/772984865796390932/large.png"
+    },
+    {
+        "nome": "Uchiha Madara",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/772984942695022592/large.png"
+    },
+    {
+        "nome": "Maki (S)",
+        "foto": "https://i.imgur.com/dwOtxbP.jpg"
+    },
+    {
+        "nome": "Kankuro (S)",
+        "foto": "https://i.imgur.com/odOPoQJ.png"
+    },
+    {
+        "nome": "Temari (S)",
+        "foto": "https://i.imgur.com/8x23OUp.png"
+    },
+    {
+        "nome": "Chiyo (S)",
+        "foto": "https://i.imgur.com/hdaBwSa.png"
+    },
+    {
+        "nome": "Kazekage Gaara (S)",
+        "foto": "https://i.imgur.com/bKqFSZh.jpg"
+    },
+    {
+        "nome": "Akatsuchi (S)",
+        "foto": "https://i.imgur.com/B9itJMF.png"
+    },
+    {
+        "nome": "Kurotsuchi (S)",
+        "foto": "https://i.imgur.com/qvaktwP.png"
+    },
+    {
+        "nome": "Ittan (S)",
+        "foto": "https://i.imgur.com/jZ0FDa8.jpg"
+    },
+    {
+        "nome": "Kitsuchi (S)",
+        "foto": "https://i.imgur.com/XxML3kV.jpg"
+    },
+    {
+        "nome": "Shee (S)",
+        "foto": "https://i.imgur.com/COyvfu4.png"
+    },
+    {
+        "nome": "Atsui (S)",
+        "foto": "https://i.imgur.com/IhjTDJg.jpg"
+    },
+    {
+        "nome": "Omoi (S)",
+        "foto": "https://i.imgur.com/iy5Bn1m.png"
+    },
+    {
+        "nome": "Dodai (S)",
+        "foto": "https://i.imgur.com/Yafza3K.jpg"
+    },
+    {
+        "nome": "Darui (S)",
+        "foto": "https://i.imgur.com/fM6f3X7.png"
+    },
+    {
+        "nome": "Nii Yugito (S)",
+        "foto": "https://i.imgur.com/IOvD0aM.jpg"
+    },
+    {
+        "nome": "Karatachi Yagura",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/767053950477795338/ctvvbsy.png"
+    },
+    {
+        "nome": "Killer Bee (S)",
+        "foto": "https://i.imgur.com/HINa7fD.png"
+    },
+    {
+        "nome": "Utakata (S)",
+        "foto": "https://i.imgur.com/Uzpi44m.png"
+    },
+    {
+        "nome": "Fuu (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/740747913344581733/unknown.png"
+    },
+    {
+        "nome": "Ao (S)",
+        "foto": "https://i.imgur.com/RZug6dI.png"
+    },
+    {
+        "nome": "Chojuro (S)",
+        "foto": "https://i.imgur.com/CHVxzu7.jpg"
+    },
+    {
+        "nome": "Hozuki Suigetsu (S)",
+        "foto": "https://i.imgur.com/PxP454E.png"
+    },
+    {
+        "nome": "Karin (S)",
+        "foto": "https://i.imgur.com/nKQtUeG.png"
+    },
+    {
+        "nome": "Juugo (S)",
+        "foto": "https://i.imgur.com/autOcrF.png"
+    },
+    {
+        "nome": "Cursed Seal Juugo (S)",
+        "foto": "https://i.imgur.com/yGPIUaK.jpg"
+    },
+    {
+        "nome": "Uchiha Sasuke (S)",
+        "foto": "https://i.imgur.com/Ff5mtPx.png"
+    },
+    {
+        "nome": "Mangekyou Sasuke (S)",
+        "foto": "https://i.imgur.com/7tLUSd3.png"
+    },
+    {
+        "nome": "Yakushi Kabuto (S)",
+        "foto": "https://i.imgur.com/PmPvnCi.png"
+    },
+    {
+        "nome": "Jiraiya (S)",
+        "foto": "https://i.imgur.com/b2Uvba3.png"
+    },
+    {
+        "nome": "Orochimaru (S)",
+        "foto": "https://i.imgur.com/b3BFPng.png"
+    },
+    {
+        "nome": "White Snake Orochimaru",
+        "foto": "https://media.discordapp.net/attachments/596516296238301189/785596135749582898/large.png"
+    },
+    {
+        "nome": "Kisame Body Double (S)",
+        "foto": "https://i.imgur.com/FUeMLRK.png"
+    },
+    {
+        "nome": "Itachi Body Double (S)",
+        "foto": "https://i.imgur.com/4vZZX4D.png"
+    },
+    {
+        "nome": "Deidara (S)",
+        "foto": "https://i.imgur.com/IOd9OHY.jpg"
+    },
+    {
+        "nome": "Hiruko Sasori (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/767053555545931806/5ugKFzE.png"
+    },
+    {
+        "nome": "Sasori of the Red Sand (S)",
+        "foto": "https://i.imgur.com/fkYAWm0.png"
+    },
+    {
+        "nome": "Puppet Sasori (S)",
+        "foto": "https://i.imgur.com/uW1qXI2.png"
+    },
+    {
+        "nome": "Hidan (S)",
+        "foto": "https://i.imgur.com/4cP3IHu.jpg"
+    },
+    {
+        "nome": "Kakuzu (S)",
+        "foto": "https://i.imgur.com/JNraJCf.jpg"
+    },
+    {
+        "nome": "Hoshigaki Kisame (S)",
+        "foto": "https://i.imgur.com/5XlGUCD.png"
+    },
+    {
+        "nome": "Uchiha Itachi (S)",
+        "foto": "https://i.imgur.com/V6SZNLI.png"
+    },
+    {
+        "nome": "Akatsuki Sasuke (S)",
+        "foto": "https://cdn.discordapp.com/attachments/673748029052026882/746438436352819210/AYeMp9eH5mLuAAAAAElFTkSuQmCC.png"
+    },
+    {
+        "nome": "Konan of the Rain (S)",
+        "foto": "https://i.imgur.com/nZpZCPd.png"
+    },
+    {
+        "nome": "Konan (S)",
+        "foto": "https://i.imgur.com/9PcP5PF.png"
+    },
+    {
+        "nome": "Uzumaki Nagato (S)",
+        "foto": "https://i.imgur.com/2ELCRGm.png"
+    },
+    {
+        "nome": "Asura Path Pein (S)",
+        "foto": "https://i.imgur.com/OCcShkL.png"
+    },
+    {
+        "nome": "Human Path Pein (S)",
+        "foto": "https://i.imgur.com/2JiKGi8.png"
+    },
+    {
+        "nome": "Naraka Path Pein (S)",
+        "foto": "https://i.imgur.com/41OloHT.png"
+    },
+    {
+        "nome": "Animal Path Pein (S)",
+        "foto": "https://i.imgur.com/IQq1uSS.png"
+    },
+    {
+        "nome": "Female Animal Path Pein (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/754042231983308981/KhEZHv8.png"
+    },
+    {
+        "nome": "Preta Path Pein (S)",
+        "foto": "https://i.imgur.com/gAl7bIC.png"
+    },
+    {
+        "nome": "Deva Path Pein (S)",
+        "foto": "https://i.imgur.com/YvK17Iu.png"
+    },
+    {
+        "nome": "Zetsu (S)",
+        "foto": "https://i.imgur.com/JFlARdr.png"
+    },
+    {
+        "nome": "Tobi (S)",
+        "foto": "https://i.imgur.com/l4j6hWg.png"
+    },
+    {
+        "nome": "Edo Tensei Deidara (S)",
+        "foto": "https://i.imgur.com/T9o4ZEC.png"
+    },
+    {
+        "nome": "Edo Tensei Kakuzu (S)",
+        "foto": "https://i.imgur.com/9zbZSRf.png"
+    },
+    {
+        "nome": "Edo Tensei Zabuza (S)",
+        "foto": "https://i.imgur.com/rr73zLa.png"
+    },
+    {
+        "nome": "Edo Tensei Haku (S)",
+        "foto": "https://i.imgur.com/sys3w70.png"
+    },
+    {
+        "nome": "Edo Tensei Sasori (S)",
+        "foto": "https://i.imgur.com/SipOLvG.png"
+    },
+    {
+        "nome": "Edo Tensei Jinin (S)",
+        "foto": "https://i.imgur.com/9RLsDM1.png"
+    },
+    {
+        "nome": "Edo Tensei Pakura (S)",
+        "foto": "https://i.imgur.com/rgOCWNZ.png"
+    },
+    {
+        "nome": "Edo Tensei Gari (S)",
+        "foto": "https://i.imgur.com/pVbIIb7.png"
+    },
+    {
+        "nome": "Edo Tensei Ginkaku (S)",
+        "foto": "https://i.imgur.com/WuLM0Hc.png"
+    },
+    {
+        "nome": "Edo Tensei Kinkaku (S)",
+        "foto": "https://i.imgur.com/Nq4UgVF.png"
+    },
+    {
+        "nome": "Edo Tensei Ameyuri (S)",
+        "foto": "https://i.imgur.com/mafD2SV.png"
+    },
+    {
+        "nome": "Edo Tensei Kuriarare (S)",
+        "foto": "https://i.imgur.com/mMPFSkD.png"
+    },
+    {
+        "nome": "Edo Tensei Jinpachi (S)",
+        "foto": "https://i.imgur.com/FqlJea8.jpg"
+    },
+    {
+        "nome": "Edo Tensei Hanzo (S)",
+        "foto": "https://i.imgur.com/PT77LSC.png"
+    },
+    {
+        "nome": "ET Yondaime Kazekage (S)",
+        "foto": "https://i.imgur.com/W07QRSX.png"
+    },
+    {
+        "nome": "ET Sandaime Raikage (S)",
+        "foto": "https://i.imgur.com/Vjyr7a4.jpg"
+    },
+    {
+        "nome": "ET Nidaime Tsuchikage (S)",
+        "foto": "https://i.imgur.com/ecgNWX7.jpg"
+    },
+    {
+        "nome": "ET Nidaime Mizukage (S)",
+        "foto": "https://i.imgur.com/Q5hrurS.jpg"
+    },
+    {
+        "nome": "Edo Tensei Toroi (S)",
+        "foto": "https://i.imgur.com/lHg31Zl.jpg"
+    },
+    {
+        "nome": "Edo Tensei Nagato (S)",
+        "foto": "https://i.imgur.com/h13Ecip.jpg"
+    },
+    {
+        "nome": "Edo Tensei Fukai (S)",
+        "foto": "https://i.imgur.com/QccP0GF.jpg"
+    },
+    {
+        "nome": "Edo Tensei Hayate (S)",
+        "foto": "https://media.discordapp.net/attachments/673708286306025494/756967177562620024/unknown.png"
+    },
+    {
+        "nome": "Edo Tensei Chen (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/759177904764223568/oKx1fps.png"
+    },
+    {
+        "nome": "Edo Tensei Dan (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/785505933106610196/unknown.png"
+    },
+    {
+        "nome": "Edo Tensei Chiyo (S)",
+        "foto": "https://i.imgur.com/butkGJ1.jpg"
+    },
+    {
+        "nome": "Edo Tensei Kimimaro (S)",
+        "foto": "https://i.imgur.com/Kc3DcwL.jpg"
+    },
+    {
+        "nome": "Edo Tensei Chukichi (S)",
+        "foto": "https://i.imgur.com/d92Pwra.png"
+    },
+    {
+        "nome": "Edo Tensei Fuguki (S)",
+        "foto": "https://i.imgur.com/94ukGy6.jpg"
+    },
+    {
+        "nome": "Edo Tensei Jiroubou (S)",
+        "foto": "https://i.imgur.com/qtN4hMJ.png"
+    },
+    {
+        "nome": "Edo Tensei Kidoumaru (S)",
+        "foto": "https://i.imgur.com/2dlLKEq.png"
+    },
+    {
+        "nome": "Edo Tensei Tayuya (S)",
+        "foto": "https://i.imgur.com/aOsY47m.png"
+    },
+    {
+        "nome": "Edo Tensei Sakon and Ukon (S)",
+        "foto": "https://i.imgur.com/59uo6Gm.png"
+    },
+    {
+        "nome": "Edo Tensei Yota (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/759177784165007380/vXA6GPg.png"
+    },
+    {
+        "nome": "Fukasaku and Shima (S)",
+        "foto": "https://i.imgur.com/922JbSX.jpg"
+    },
+    {
+        "nome": "Sennin Naruto (S)",
+        "foto": "https://i.imgur.com/B6ZhPnD.png"
+    },
+    {
+        "nome": "Sennin Jiraiya (S)",
+        "foto": "https://i.imgur.com/iZIMyUh.jpg"
+    },
+    {
+        "nome": "Hachibi Bee (S)",
+        "foto": "https://i.imgur.com/g9XZBx8.jpg"
+    },
+    {
+        "nome": "Three Tails Kyuubi Naruto (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/746373202699092068/7fu7VwyukhwMQabyDOKgkQ7QcvDfkHFU2PGdKIuFwckB1OsGbUpnYHj7hZ1h8pE7DFsevGIQERJmUBOXZxBgZ2JQ5gbN1PxmeP31.png"
+    },
+    {
+        "nome": "Four Tail Kyuubi Naruto (S)",
+        "foto": "https://i.imgur.com/jAg1CYw.jpg"
+    },
+    {
+        "nome": "Six Tails Kyuubi Naruto (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/759177673108357130/1IcVkDR.png"
+    },
+    {
+        "nome": "Kyuubi Naruto (S)",
+        "foto": "https://i.imgur.com/chHLHF2.png"
+    },
+    {
+        "nome": "Shinobi War Tobi (S)",
+        "foto": "https://i.imgur.com/m2tZfk2.png"
+    },
+    {
+        "nome": "White Snake Kabuto (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/767053766208913458/Y5A86aX.png"
+    },
+    {
+        "nome": "Kazahana Doto",
+        "foto": "https://i.imgur.com/AgoNQtr.png"
+    },
+    {
+        "nome": "Sora (S)",
+        "foto": "https://cdn.discordapp.com/attachments/673748029052026882/746375708372369428/0AkDQgk3DwAAAAAElFTkSuQmCC.png"
+    },
+    {
+        "nome": "Guren (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/740747340834668574/unknown.png"
+    },
+    {
+        "nome": "Mecha Naruto",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/756957748742062120/ypI25z1.png"
+    },
+    {
+        "nome": "Edo Tensei Mangetsu (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/785505521607901184/unknown.png"
+    }
+]
