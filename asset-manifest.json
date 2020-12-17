@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/team-naruto-arena/static/js/main.c7f6057f.chunk.js",
-    "main.js.map": "/team-naruto-arena/static/js/main.c7f6057f.chunk.js.map",
+    "main.js": "/team-naruto-arena/static/js/main.31a32855.chunk.js",
+    "main.js.map": "/team-naruto-arena/static/js/main.31a32855.chunk.js.map",
     "runtime-main.js": "/team-naruto-arena/static/js/runtime-main.bdbd7399.js",
     "runtime-main.js.map": "/team-naruto-arena/static/js/runtime-main.bdbd7399.js.map",
-    "static/js/2.7dd759ae.chunk.js": "/team-naruto-arena/static/js/2.7dd759ae.chunk.js",
-    "static/js/2.7dd759ae.chunk.js.map": "/team-naruto-arena/static/js/2.7dd759ae.chunk.js.map",
+    "static/js/2.86ba15ef.chunk.js": "/team-naruto-arena/static/js/2.86ba15ef.chunk.js",
+    "static/js/2.86ba15ef.chunk.js.map": "/team-naruto-arena/static/js/2.86ba15ef.chunk.js.map",
     "index.html": "/team-naruto-arena/index.html",
-    "static/js/2.7dd759ae.chunk.js.LICENSE.txt": "/team-naruto-arena/static/js/2.7dd759ae.chunk.js.LICENSE.txt"
+    "static/js/2.86ba15ef.chunk.js.LICENSE.txt": "/team-naruto-arena/static/js/2.86ba15ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bdbd7399.js",
-    "static/js/2.7dd759ae.chunk.js",
-    "static/js/main.c7f6057f.chunk.js"
+    "static/js/2.86ba15ef.chunk.js",
+    "static/js/main.31a32855.chunk.js"
   ]
 }
