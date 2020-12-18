@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/team-naruto-arena/static/js/main.12b7a172.chunk.js",
-    "main.js.map": "/team-naruto-arena/static/js/main.12b7a172.chunk.js.map",
+    "main.js": "/team-naruto-arena/static/js/main.e8659985.chunk.js",
+    "main.js.map": "/team-naruto-arena/static/js/main.e8659985.chunk.js.map",
     "runtime-main.js": "/team-naruto-arena/static/js/runtime-main.bdbd7399.js",
     "runtime-main.js.map": "/team-naruto-arena/static/js/runtime-main.bdbd7399.js.map",
     "static/js/2.b8c37bbd.chunk.js": "/team-naruto-arena/static/js/2.b8c37bbd.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.bdbd7399.js",
     "static/js/2.b8c37bbd.chunk.js",
-    "static/js/main.12b7a172.chunk.js"
+    "static/js/main.e8659985.chunk.js"
   ]
 }
