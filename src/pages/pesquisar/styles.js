@@ -2,12 +2,19 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
 
+    .verEstrategia{
+        cursor:pointer;
+        color:blue;
+        text-align:center;
+    }
+
     .titulo{
         font-size:30px;
         font-family: Arial, Helvetica, sans-serif
         
     }
     .descricao{
+        text-align:center;
         margin-top:-10px;
         font-size:15px;
         font-family: Arial, Helvetica, sans-serif

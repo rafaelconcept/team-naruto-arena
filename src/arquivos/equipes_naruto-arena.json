@@ -748,6 +748,30 @@
       "CHAR 2": "KYUUBI NARUTO",
       "CHAR 3": "UCHIHA ITACHI",
       "ESTRATEGIA": "Vai stunando com itachi e naruto, prepara obito quando possivel e tenta usar o aoe do naruto para causar mais dano a todos, assim vai levando o jogo sempre atacando mirando 1 para eliminar mais rapido e stunando problematicos."
+    },
+    {
+      "OBJETIVO": "MISSÕES  ",
+      "CHAR 1": "Chojuro (S)",
+      "CHAR 2": "Yamato",
+      "CHAR 3": "Edo Tensei Chiyo (S)",
+      "ESTRATEGIA": "Focar sempre no combo pra matar um inimigo de primeira. Como é uma equipe counter temos uma vantagem pra economizar o chackra. A princípio usar o stun da ET Chiyo que tira 20 de dano e no próximo turno usar o combo do Yamato e do Choujoro pra matar um. Nós próximos turnos seria mais pra counterar o inimigo.",
+      "RECOMENDADO": "SrLopes"
+    },
+    {
+      "OBJETIVO": "MISSÕES  ",
+      "CHAR 1": "Yamanaka Fu",
+      "CHAR 2": "Mitarashi Anko",
+      "CHAR 3": "Abumi Zaku",
+      "ESTRATEGIA": "O principal da equipe é o Zaku então o Fu seria pra defender ele com o counter enquanto a gente prepara ele pra usar o ataque de 45 enquanto usamos o ataque da Anko de 10 de dano em todos. Assim eliminando sempre os que ameaçam o Zaku. Geralmente sempre fica a Anko por último e o interessante é sempre usar ela no 1x1 por conta do ataque dela que suicida ela e o inimigo e com isso dando a vitória.",
+      "RECOMENDADO": "SrLopes"
+    },
+    {
+      "OBJETIVO": "MISSÕES  ",
+      "CHAR 1": "Hozuki Suigetsu (S)",
+      "CHAR 2": "Orochimaru",
+      "CHAR 3": "Namikaze Minato",
+      "ESTRATEGIA": "Usar a preparação do orochimaru no suigetsu. Se possivel use o wide area sensing do minato para gerar mais chakra e a preparação do suigetsu também, equipe cria muito chakra e tem um ótimo ataque.",
+      "RECOMENDADO": "rafaelconcept"
     }
   ]
 }
