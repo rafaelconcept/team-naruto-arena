@@ -127,6 +127,38 @@ import equipes from '../../arquivos/equipes_naruto-arena.json'
             ))}
             
             </div>
+
+
+        <div id="lista_inferior" style={{display: pesquisa=='0000'?"flex":"none"}}>
+        Ultimas equipes adicionadas:
+            <div id='novos' >
+            
+            {equipes.Plan1.slice(0).reverse().slice(0,8).map((time, i)=>(
+                //console.log(time)
+                <div key={i} className='conteudo'>
+                    <div className='fotos'>
+                        <img src={lista.filter(function(personagem) {return personagem.nome.toLowerCase() == time['CHAR 1'].toLowerCase();}).length>0?lista.filter(function(personagem) {return personagem.nome.toLowerCase() == time['CHAR 1'].toLowerCase();})[0].foto:''}></img>
+                        <img src={lista.filter(function(personagem) {return personagem.nome.toLowerCase() == time['CHAR 2'].toLowerCase();}).length>0?lista.filter(function(personagem) {return personagem.nome.toLowerCase() == time['CHAR 2'].toLowerCase();})[0].foto:''}></img>
+                        <img src={lista.filter(function(personagem) {return personagem.nome.toLowerCase() == time['CHAR 3'].toLowerCase();}).length>0?lista.filter(function(personagem) {return personagem.nome.toLowerCase() == time['CHAR 3'].toLowerCase();})[0].foto:''}></img>
+                    </div>
+                    <p id={i} style={{display: mostrando=='estrategia'+i?"none":"block"}} onClick={e=>mostrarEstrategia(e,time['CHAR 1'],time['CHAR 2'],time['CHAR 3'],pesquisa )}  className='verEstrategia'>ver estrategia</p>
+                    <div id={'estrategia'+i} style={{display: mostrando=='estrategia'+i?"block":"none",marginTop:'10px'}}  className='estrategia'>
+                        {time['ESTRATEGIA']}
+                        <p id={'recomendado'+i} style={{marginTop:'2px', display: time['RECOMENDADO']!=null?"block":"none"}} onClick={e=>abrirPerfil(time['RECOMENDADO'])}  className='verEstrategia'>Recomendado por {time['RECOMENDADO']}</p>
+                    
+                    </div>
+                    
+ 
+                </div>
+
+
+
+            
+                
+
+            ))}
+            </div>
+         </div>
         </div>
           
           

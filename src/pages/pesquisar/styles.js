@@ -40,11 +40,17 @@ export const Container = styled.div`
         
     }
 
-  #lista{
+  #lista, #novos{
     display:flex;
     flex-wrap: wrap;
     justify-content:center;
     
+  }
+  #lista_inferior{
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      margin-top:15px;
   }
   .conteudo{
       padding:5px;
