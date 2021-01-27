@@ -500,8 +500,12 @@
         "foto": "https://media.discordapp.net/attachments/673748029052026882/767053950477795338/ctvvbsy.png"
     },
     {
-        "nome": "Killer Bee (S)",
-        "foto": "https://i.imgur.com/HINa7fD.png"
+        "nome": "Roshi (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/796378836559724564/unknown.png"
+    },
+    {
+        "nome": "Han (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/796377340162736128/unknown.png"
     },
     {
         "nome": "Utakata (S)",
@@ -510,6 +514,10 @@
     {
         "nome": "Fuu (S)",
         "foto": "https://media.discordapp.net/attachments/673748029052026882/740747913344581733/unknown.png"
+    },
+    {
+        "nome": "Killer Bee (S)",
+        "foto": "https://i.imgur.com/HINa7fD.png"
     },
     {
         "nome": "Ao (S)",
@@ -569,7 +577,7 @@
     },
     {
         "nome": "Deidara (S)",
-        "foto": "https://i.imgur.com/IOd9OHY.jpg"
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/798004556659163147/unknown.png"
     },
     {
         "nome": "Hiruko Sasori (S)",
@@ -692,6 +700,10 @@
         "foto": "https://i.imgur.com/Nq4UgVF.png"
     },
     {
+        "nome": "Edo Tensei Kyuubi Kinkaku (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/796380224094863380/unknown.png"
+    },
+    {
         "nome": "Edo Tensei Ameyuri (S)",
         "foto": "https://i.imgur.com/mafD2SV.png"
     },
@@ -702,6 +714,10 @@
     {
         "nome": "Edo Tensei Jinpachi (S)",
         "foto": "https://i.imgur.com/FqlJea8.jpg"
+    },
+    {
+        "nome": "Edo Tensei Mangetsu (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/785505521607901184/unknown.png"
     },
     {
         "nome": "Edo Tensei Hanzo (S)",
@@ -746,6 +762,10 @@
     {
         "nome": "Edo Tensei Dan (S)",
         "foto": "https://media.discordapp.net/attachments/673748029052026882/785505933106610196/unknown.png"
+    },
+    {
+        "nome": "Edo Tensei Hizashi (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/796376978055495710/unknown.png"
     },
     {
         "nome": "Edo Tensei Chiyo (S)",
@@ -824,6 +844,10 @@
         "foto": "https://media.discordapp.net/attachments/673748029052026882/767053766208913458/Y5A86aX.png"
     },
     {
+        "nome": "Sennin Kabuto (S)",
+        "foto": "https://media.discordapp.net/attachments/673748029052026882/796376383538200637/unknown.png"
+    },
+    {
         "nome": "Kazahana Doto",
         "foto": "https://i.imgur.com/AgoNQtr.png"
     },
@@ -838,9 +862,5 @@
     {
         "nome": "Mecha Naruto",
         "foto": "https://media.discordapp.net/attachments/673748029052026882/756957748742062120/ypI25z1.png"
-    },
-    {
-        "nome": "Edo Tensei Mangetsu (S)",
-        "foto": "https://media.discordapp.net/attachments/673748029052026882/785505521607901184/unknown.png"
     }
 ]
