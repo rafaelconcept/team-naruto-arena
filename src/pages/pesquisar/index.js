@@ -1,11 +1,22 @@
 import React, { useState, useEffect } from 'react';
-import personagens from '../../arquivos/array_chars_narutoarena.json'
-import equipes from '../../arquivos/equipes_naruto-arena.json'
 
  import { Container } from './styles';
 
- //import ReactGA from 'react-ga';
- //ReactGA.pageview('/pesquisar')
+
+
+
+const personagens =JSON.parse(httpGet('https://api-team-na.herokuapp.com/json_chars'));
+const equipes = JSON.parse(httpGet('https://api-team-na.herokuapp.com/json_teams'));
+
+function httpGet(theUrl)
+{
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
+    xmlHttp.send( null );
+    return xmlHttp.responseText;
+}
+
+
 
 
  const App = props => {
